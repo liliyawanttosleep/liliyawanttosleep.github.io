@@ -2,7 +2,7 @@
 title: 'Personal Website Established'
 date: 2026-05-09
 published: true
-permalink: /posts/2026/05
+permalink: /posts/2026/05/my-first-blog
 tags:
   - Machine Learning
 ---# Hello World!
