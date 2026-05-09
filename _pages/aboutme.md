@@ -1,5 +1,4 @@
 ---
-layout: about
 title: "Welcome to my personal website"
 permalink: /
 author_profile: true
