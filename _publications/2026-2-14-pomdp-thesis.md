@@ -1,7 +1,7 @@
 ---
 title: "Online Planning Monte-Carlo Algorithm with UCT for Partially Observable Markov Decision Processes Problems"
 collection: publications
-permalink: /publication/2025-11-01-pomdp-thesis
+permalink: /publication/2026-02-10-pomdp-thesis
 excerpt: 'This thesis studies the application of Partially Observable Monte Carlo Planning (POMCP) with UCT, converts it into a history MDP problem, proves its convergence, and implements it on the classical Rock Sample problem.'
 date: 2025-11-01
 venue: 'University of Chicago (Master Thesis)'
