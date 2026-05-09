@@ -11,14 +11,14 @@ I am a Ph.D. student in Statistics at **Pennsylvania State University**. My acad
 
 ## 🔍 Research Interests
 My research primarily focuses on the intersection of **Statistical Machine Learning** and **Deep Learning**, specifically:
-* **Generative Models:** Diffusion Models and Flow Matching.
-* **Reinforcement Learning:** Online planning in  Partially Observable Markov Decision Processes Problems (POMDPs).
+* **Generative Models:** Diffusion Models and Flow Matching. *(Advised by [Prof. Nisha Chandramoorthy](https://ni-sha-c.github.io))*
+* **Reinforcement Learning:** Online planning in  Partially Observable Markov Decision Processes Problems (POMDPs).*(Advised by [Prof. Mihai Anitescu](https://stat.uchicago.edu/people/profile/mihai-anitescu/))*
 * **Stochastic Optimization:** SDEs in deep learning applications.
 
 ## 🎓 Education
 * **Ph.D. in Statistics (Machine Learning Track)**
   *Pennsylvania State University* | 2026 - Present
-* **M.S. in Computational and Applied Mathematics (MSCAM)**
+* **M.S. in Computational and Applied Mathematics (MCAM)**
   *University of Chicago* | 2024 - 2026
 * **B.Sc. in Mathematics with Computer Science**
   *Technion - Israel Institute of Technology* | 2020 - 2024
