@@ -17,6 +17,3 @@ This Master's thesis, completed under the supervision of **Prof. Mihai Anitescu*
 * Proving the convergence of the POMCP algorithm.
 * Implementing and validating the algorithm on the classical high-dimensional RockSample problem.
 
-{% comment %}
-[📥 Download and Read the Full Thesis PDF Here](/files/paper/pomdp_thesis.pdf)
-{% endcomment %}
