@@ -15,6 +15,5 @@ Recently, I have been focusing on the intersection of Statistical Machine Learni
 * Implementing POMDP algorithms.
 * Updating my personal website!
 
-Here is a simple python code block:
 ```python
 print("Hello from Wentao's blog!")
