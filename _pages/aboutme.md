@@ -7,16 +7,16 @@ redirect_from:
   - /aboutme.html
 ---
 
-I am a Ph.D. student in Statistics at **Pennsylvania State University**. My academic journey is driven by a fascination with how mathematical theory can be applied to solve complex problems in Machine Learning.
+I am a Ph.D. student in Statistics at **Pennsylvania State University**. My academic journey is driven by a fascination with how mathematical theory can be applied to solve complex problems in Machine Learning and Operations Research. My long-term career goal is to conduct research in developing AI decision systems. Specifically, I aim to build agents that can generate predictive simulations of their environment using only limited and noisy observations. Simulations paired with credibility assessments will serve as the foundation for online planning optimal policies.
 
 ## 🔍 Research Interests
-My research primarily focuses on the intersection of **Statistical Machine Learning** and **Deep Learning**, specifically:
+My research primarily focuses on **Deep Learning** and **Reinforcement Learning**, specifically:
 * **Generative Models:** Diffusion Models and Flow Matching. *(Advised by [Prof. Nisha Chandramoorthy](https://ni-sha-c.github.io))*
 * **Reinforcement Learning:** Online planning in  Partially Observable Markov Decision Processes Problems (POMDPs).*(Advised by [Prof. Mihai Anitescu](https://stat.uchicago.edu/people/profile/mihai-anitescu/))*
 * **Stochastic Optimization:** SDEs in deep learning applications.
 
 ## 🎓 Education
-* **Ph.D. in Statistics (Machine Learning Track)**
+* **Ph.D. in Statistics**
   *Pennsylvania State University* | 2026 - Present
 * **M.S. in Computational and Applied Mathematics (MCAM)**
   *University of Chicago* | 2024 - 2026
@@ -25,4 +25,4 @@ My research primarily focuses on the intersection of **Statistical Machine Learn
 
 ## 💼 Experience
 * **LLM Algorithm Intern**, Shenzhen Huahan Weiye Tech Co. Ltd
-* **Research Assistant**, University of Chicago (2025-2026)
+* **Research Assistant**, University of Chicago
