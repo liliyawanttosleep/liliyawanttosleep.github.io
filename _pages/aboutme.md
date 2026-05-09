@@ -1,12 +1,10 @@
 
 
 ---
+layout: about
 title: "Welcome to my personal website"
+permalink: /
 author_profile: true
-redirect_from: 
-  - /aboutme/
-  - /aboutme.html
-  - permalink: /
 ---
 
 I am a Ph.D. student in Statistics at **Pennsylvania State University**. My academic journey is driven by a fascination with how mathematical theory can be applied to solve complex problems in Machine Learning.
