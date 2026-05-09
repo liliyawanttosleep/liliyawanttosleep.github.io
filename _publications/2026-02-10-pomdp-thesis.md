@@ -6,7 +6,8 @@ excerpt: 'This thesis studies the application of Partially Observable Monte Carl
 date: 2026-02-10
 venue: 'University of Chicago (Master Thesis)'
 paperurl: '/files/paper/pomdp_thesis.pdf'
-citation: 'Yang, W. (2026).&quot;Online Planning Monte-Carlo Algorithm with UCT for Partially Observable Markov Decision Processes Problems&quot;.Master's thesis, University of Chicago.'
+citation: 'Yang, W. (2025). &quot;Online Planning Monte-Carlo Algorithm with UCT for Partially Observable Markov Decision Processes Problems&quot;. Master thesis, University of Chicago.'
+---
 ---
 
 ## Abstract
