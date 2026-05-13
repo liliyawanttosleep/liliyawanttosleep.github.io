@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in Statistics at **Pennsylvania State University**. My academic journey is driven by a fascination with how mathematical theory can be applied to solve complex problems in Machine Learning and Operations Research. My long-term career goal is to conduct research in developing AI decision systems. Specifically, I aim to build agents that can generate predictive simulations of their environment using only limited and noisy observations. Simulations paired with credibility assessments will serve as the foundation for online planning optimal policies.
 
-*To reach me, my e-mail address is X@Y, where X is wvy5161, and Y is psu.edu
+## To reach me, my e-mail address is X@Y, where X is wvy5161, and Y is psu.edu
 
 ## 🔍 Research Interests
 My research primarily focuses on **Deep Learning** and **Reinforcement Learning**, specifically:
